@@ -1,0 +1,9 @@
+{
+  "name": "headless-chrome-scraping-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^0.10.2"
+  }
+}
